@@ -6,6 +6,8 @@
 - Julia Santos Oliveira | 10417672
 - Larissa Yuri Sato     | 10418318
 
+  LINK DO VÍDEO DE APRESENTAÇÃO: https://youtu.be/ufR5agRGBMI?si=EY2VNBMP6w-edbYa
+
 ## Introdução
 A opinião pública é um importante instrumento para compreender percepções, valores e comportamentos presentes em uma sociedade. Pesquisas de opinião permitem observar como diferentes grupos sociais se posicionam diante de temas relevantes, além de possibilitarem análises sobre desigualdades, percepções coletivas e padrões de resposta associados a características sociodemográficas.
 
